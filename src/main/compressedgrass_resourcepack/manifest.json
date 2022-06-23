@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "CompressedGrass:Reborn",
+    "uuid": "0538aaf6-0885-39a9-beb4-954d6617f44e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      18,
+      2
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "45d917d7-2c61-348e-a182-bff6980bf6a8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "19534, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}
